@@ -1,5 +1,5 @@
 # JDBCApplication
-使用mybatis对jdbc的简单实现，帮室友写的java大作业
+使用mybatis对jdbc的简单实现
 实现了简单的用户权限功能
 ## 主要功能：
 1. 查询所有供货商
